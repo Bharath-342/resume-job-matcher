@@ -6,7 +6,7 @@ RUN echo "DOCKERFILE IS RUNNING ON RENDER BUILD"
 WORKDIR /app
 
 # Copy package files first (better Docker caching)
-COPY package*.json ./
+COPY package.json package-lock.json ./
 
 # Install dependencies
 RUN npm install --production
