@@ -5,6 +5,14 @@ const matchRoutes = require("./routes/matchRoute");
 const app = express();
 app.use(express.json());
 
+app.get("/api/status", (req, res) => {
+  res.json({
+    message: "Resume parser and JD parser API is running successfully",
+    server: "OK",
+    time: new Date()
+  });
+});
+
 app.use("/api", matchRoutes);
 
 async function startServer() {
