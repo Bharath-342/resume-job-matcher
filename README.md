@@ -27,7 +27,7 @@
 > The API is live and publicly accessible — no setup needed.
 
 ```
- https://resume-job-matcher-2uro.onrender.com/api/match
+ https://resume-job-matcher-2uro.onrender.com/api/status
 ```
 
 **Try it instantly:**
