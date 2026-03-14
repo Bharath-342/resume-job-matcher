@@ -1,138 +1,121 @@
-SpaceX was founded under the belief that a future where humanity is out
-exploring the stars is fundamentally more exciting than one where we are
-not. Today SpaceX is actively developing the technologies to make this
-possible, with the ultimate goal of enabling human life on Mars.
-FULL STACK SOFTWARE ENGINEER (BUILD RELIABILITY)
-We are seeking a Full Stack Software Engineer to design, develop, and
-continuously improve software solutions ensuring our vehicles can be built
-and flown reliably. This involves streamlining quality control processes,
-simplifying new product introduction, ensuring product traceability, as well
-as optimizing rocket and spacecraft reusability.
-As a Full Stack Software Engineer on our Build Reliability team, you will
-engage with other SpaceX engineers to discover the needs of the mission
-and write highly reliable software which turns the mission into reality. You
-will be responsible for the complete life-cycle of the software you create,
-including development, testing, and support. You are the engineer that
-other engineers can count on; you are technical, you attack every problem
-with enthusiasm; you remove hurdles. You are a self-starter, team player,
-have the hunger to venture quickly into unknown areas and code and
-make the system work.
+Choosing Capgemini means choosing a company where you will be
+empowered to shape your career in the way you’d like, where you’ll be
+supported and inspired by a collaborative community of colleagues
+around the world, and where you’ll be able to reimagine what’s possible.
+Join us and help the world’s leading organizations unlock the value of
+technology and build a more sustainable, more inclusive world.
+Job Description
+Should have 7 years of strong handson experience with Core Java Spring
+bootShould have 4 years of strong handson experience with Angular or
+React
+Hands On experience Relational DatabaseMicrosoft SQL Server UDBDB2
+or No SQL is required
+Should have strong hands on experience working on Microservices Kafka
+REST API Development experience
+Hands on experience working with containerization technologies Docker
+Kubernetes
+Experience in modernizingrewriting legacy application to modernized
+distributed platforms
+Core Banking Or FinancialWealth Management Domain Working
+Experience Required
+Good to have
+Python experience
+AlML exposure is valuable
+Experience in Cloud platforms Azure etc
+Experience in DevOps pipeline CICD practice any tools eg Jenkinsteam
 
-Aerospace experience is not required to be successful here - rather we
-look for smart, motivated, collaborative engineers who love solving
-problems and want to make an impact on a super inspiring mission.
-RESPONSIBILITIES:
-• Build highly reliable software solutions that may be used by users
-across SpaceX
-• Own all aspects of software engineering and product development
-• Act as a responsible engineer for various software products
-• Maintain highest standards of excellence, never settle for the
-status quo
-• Deep dive into your users’ problems, find efficient solutions
-• Provide strong technical leadership, focus on continuous
-improvement
-• Seek out faults within our application suite or ERP suite and
-implement solutions to improve
-• Track usage of Applications and features and suggest/implement
-features to improve them
-BASIC QUALIFICATIONS:
-• Bachelor's degree in computer science, engineering, math, or
-scientific discipline; OR 2+ years of professional experience
-building software in lieu of a degree
-• Experience in full stack development
-PREFERRED SKILLS AND EXPERIENCE:
-• 5+ years of experience in web applications development
-• Experience as an architect - proven ability to design and implement
-robust and scalable systems with flexible and scalable UI that
-meets future needs
-• Expertise in C#, .NET, SQL, HTML, CSS, AngularJS, TypeScript
-• Expertise in Python, PostgreSQL
-• Deep understanding of object oriented programming and design
-principles
-• Deep understanding of testing, continuous integration, build,
-deployment & continuous monitoring
-• Experience scaling web applications and optimizing applications
-for performance
-• Solid understanding of UI/UX design to provide intuitive
-applications
+city"
+Works in the area of Software Engineering, which encompasses the
+development, maintenance and optimization of software solutions/
+applications.1. Applies scientific methods to analyse and solve software
+engineering problems.2. He/she is responsible for the development and
+application of software engineering practice and knowledge, in research,
+design, development and maintenance.3. His/her work requires the
+exercise of original thought and judgement and the ability to supervise the
+technical and administrative work of other software engineers.4. The
+software engineer builds skills and expertise of his/her software
+engineering discipline to reach standard software engineer skills
+expectations for the applicable role, as defined in Professional
+Communities.5. The software engineer collaborates and acts as team
+player with other software engineers and stakeholders.
+The base compensation range for this role in the posted location is: 61087
+- 104364
+Capgemini provides compensation range information in accordance with
+applicable national, state, provincial, and local pay transparency laws. The
+base compensation range listed for this position reflects the minimum and
+maximum target compensation Capgemini, in good faith, believes it may
+pay for the role at the time of this posting. This range may be subject to
+change as permitted by law.
+The actual compensation offered to any candidate may fall outside of the
+posted range and will be determined based on multiple factors legally
+permitted in the applicable jurisdiction.
+These may include, but are not limited to: Geographic location, Education
+and qualifications, Certifications and licenses, Relevant experience and
+skills, Seniority and performance, Market and business consideration,
+Internal pay equity.
+It is not typical for candidates to be hired at or near the top of the posted
+compensation range.
+In addition to base salary, this role may be eligible for additional
+compensation such as variable incentives, bonuses, or commissions,
+depending on the position and applicable laws.
+Capgemini offers a comprehensive, non-negotiable benefits package to all
 
-• Great creative and innovative problem-solving skills
-• Initiative and the ability to work independently and collaborate
-within a team
-• Experience developing software for manufacturing, production, or
-quality systems
-ADDITIONAL REQUIREMENTS:
-• Ability to work extended hours and weekends as needed
-• Must be willing to travel – up to 10%
-Pay Range:
-COMPENSATION AND BENEFITS:
-Software Engineer/Level I: $120,000.00 - $145,000.00/per year
-Software Engineer/Level II: $140,000.00 - $170,000.00/per year
-Your actual level and base salary will be determined on a case-by-case
-basis and may vary based on the following considerations: job-related
-knowledge and skills, education, and experience.
-Base salary is just one part of your total rewards package at SpaceX. You
-may also be eligible for long-term incentives, in the form of company
-stock, stock options, or long-term cash awards, as well as potential
-discretionary bonuses and the ability to purchase additional stock at a
-discount through an Employee Stock Purchase Plan. You will also receive
-access to comprehensive medical, vision, and dental coverage, access to
-a 401(k) retirement plan, short and long-term disability insurance, life
-insurance, paid parental leave, and various other discounts and perks.
-You may also accrue 3 weeks of paid vacation and will be eligible for 10 or
-more paid holidays per year. Exempt employees are eligible for 5 days of
-sick leave per year.
-SOFTWARE ENGINEER (FULL STACK) - BUILD RELIABILITY
-We are seeking a Full Stack Software Engineer to design, develop, and
-continuously improve software solutions ensuring our vehicles can be built
-and flown reliably. This involves streamlining quality control processes,
-simplifying new product introduction, ensuring product traceability, as well
-as optimizing rocket and spacecraft reusability.
+regular, full-time employees. In the U.S. and Canada, available benefits are
+determined by local policy and eligibility and may include:
+• Paid time off based on employee grade (A-F), defined by policy:
+Vacation: 12-25 days, depending on grade, Company paid
+holidays, Personal Days, Sick Leave
+• Medical, dental, and vision coverage (or provincial healthcare
+coordination in Canada)
+• Retirement savings plans (e.g., 401(k) in the U.S., RRSP in Canada)
+• Life and disability insurance
+• Employee assistance programs
+• Other benefits as provided by local policy and eligibility
+Important Notice: Compensation (including bonuses, commissions, or
+other forms of incentive pay) is not considered earned, vested, or payable
+until it becomes due under the terms of applicable plans or agreements
+and is subject to Capgemini’s discretion, consistent with applicable laws.
+The Company reserves the right to amend or withdraw compensation
+programs at any time, within the limits of applicable legislation.
+Disclaimers
+Capgemini is an Equal Opportunity Employer encouraging inclusion in the
+workplace. Capgemini also participates in the Partnership Accreditation in
+Indigenous Relations (PAIR) program which supports meaningful
+engagement with Indigenous communities across Canada by promoting
+fairness, accessibility, inclusion and respect. We value the rich cultural
+heritage and contributions of Indigenous Peoples and actively work to
+create a welcoming and respectful environment. All qualified applicants
+will receive consideration for employment without regard to race, national
+origin, gender identity/expression, age, religion, disability, sexual
+orientation, genetics, veteran status, marital status or any other
+characteristic protected by law.
+This is a general description of the Duties, Responsibilities and
+Qualifications required for this position. Physical, mental, sensory or
+environmental demands may be referenced in an attempt to communicate
+the manner in which this position traditionally is performed. Whenever
+necessary to provide individuals with disabilities an equal employment
+opportunity, Capgemini will consider reasonable accommodations that
+might involve varying job requirements and/or changing the way this job is
+performed, provided that such accommodation does not pose an undue
+hardship. Capgemini is committed to providing reasonable
 
-As a Full Stack Software Engineer on our Build Reliability team, you will
-engage with other SpaceX engineers to discover the needs of the mission
-and write highly reliable software which turns the mission into reality. You
-will be responsible for the complete life-cycle of the software you create,
-including development, testing, and support. You are the engineer that
-other engineers can count on; you are technical, you attack every problem
-with enthusiasm; you remove hurdles. You are a self-starter, team player,
-have the hunger to venture quickly into unknown areas and code and
-make the system work.
-Aerospace experience is not required to be successful here - rather we
-look for smart, motivated, collaborative engineers who love solving
-problems and want to make an impact on a super inspiring mission.
-Pay Range:
-Software Engineer/Level I: $120,000.00 - $145,000.00/per year
-Software Engineer/Level II: $140,000.00 - $170,000.00/per year
-Your actual level and base salary will be determined on a case-by-case
-basis and may vary based on the following considerations: job-related
-knowledge and skills, education, and experience.
-Base salary is just one part of your total rewards package at SpaceX. You
-may also be eligible for long-term incentives, in the form of company
-stock, stock options, or long-term cash awards, as well as potential
-discretionary bonuses and the ability to purchase additional stock at a
-discount through an Employee Stock Purchase Plan. You will also receive
-access to comprehensive medical, vision, and dental coverage, access to
-a 401(k) retirement plan, short and long-term disability insurance, life
-insurance, paid parental leave, and various other discounts and perks.
-You may also accrue 3 weeks of paid vacation and will be eligible for 10 or
-more paid holidays per year. Exempt employees are eligible for 5 days of
-sick leave per year.
-ITAR REQUIREMENTS:
-• To conform to U.S. Government export regulations, applicant must
-be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident
-(aka green card holder), (iii) Refugee under 8 U.S.C.
-• 1157, or (iv) Asylee under 8 U.S.C.
+accommodation during our recruitment process. If you need assistance or
+accommodation, please reach out to your recruiting contact.
+Please be aware that Capgemini may capture your image (video or
+screenshot) during the interview process and that image may be used for
+verification, including during the hiring and onboarding process.
+Click the following link for more information on your rights as an Applicant
 
-• 1158, or be eligible to obtain the required authorizations from the
-U.S. Department of State. Learn more about the ITAR here.
-SpaceX is an Equal Opportunity Employer; employment with SpaceX is
-governed on the basis of merit, competence and qualifications and will
-not be influenced in any manner by race, color, religion, gender, national
-origin/ethnicity, veteran status, disability status, age, sexual orientation,
-gender identity, marital status, mental or physical disability or any other
-legally protected status.
-Applicants wishing to view a copy of SpaceX’s Affirmative Action Plan for
-veterans and individuals with disabilities, or applicants requiring
-reasonable accommodation to the application/interview process should
-reach out to EEOCompliance@spacex.com.
+in the United States. http://www.capgemini.com/resources/equal-
+employment-opportunity-is-the-law
+
+Capgemini is a global business and technology transformation partner,
+helping organizations to accelerate their dual transition to a digital and
+sustainable world, while creating tangible impact for enterprises and
+society. It is a responsible and diverse group of 340,000 team members in
+more than 50 countries. With its strong over 55-year heritage, Capgemini
+is trusted by its clients to unlock the value of technology to address the
+entire breadth of their business needs. It delivers end-to-end services and
+solutions leveraging strengths from strategy and design to engineering, all
+fueled by its market leading capabilities in AI, generative AI, cloud and
+data, combined with its deep industry expertise and partner ecosystem.

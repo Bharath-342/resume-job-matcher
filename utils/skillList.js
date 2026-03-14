@@ -78,6 +78,8 @@ module.exports = [
      "Mentoring","Strategic Thinking","Innovation","Work Ethic","Attention to Detail","Artificial Intelligence","Data Science","Data Analysis","Data Visualization","Big Data","Cloud Computing","DevOps","Microservices","Containerization",
      "Serverless Computing","Edge Computing","Distributed Systems","System Design","Kafka","RabbitMQ","ActiveMQ","ZeroMQ","Amazon SQS",
      "Apache Spark","Hadoop","Hive","Presto","Flink","Airflow","ETL","Data Engineering","Big Data","Data Warehousing",
-     "Machine Learning","Deep Learning","Artificial Intelligence","Artifical intelligence"
+     "Machine Learning","Deep Learning","Artificial Intelligence","Artifical intelligence","hibernate","spring boot","spring security","spring mvc","python","django","flask","fastapi","c","c++","c#",".net",".net core","go","rust","scala","kotlin","swift","javascript","typescript","node.js","express.js","nestjs","angular","react","vue.js","next.js","nuxt.js","svelte",
+     "html","html5","css","css3","sass","less","tailwind css","bootstrap",
+     "material ui","redux","rxjs",
     ]
 
