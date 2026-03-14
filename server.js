@@ -1,31 +1,38 @@
-
-
 const express = require("express");
-const cors = require("cors");
-
-const matchRoute = require("./routes/matchRoute");
+const pool = require("./config/db");
+const matchRoutes = require("./routes/matchRoute");
 
 const app = express();
-
-app.use(cors());
 app.use(express.json());
 
+app.use("/api", matchRoutes);
 
-app.get("/", (req, res) => {
-  res.send("Resume Job Matcher API is running");
-});
-app.use("/api", matchRoute);
+async function startServer() {
+  try {
 
-const PORT = process.env.PORT || 8000;
+    // create table automatically
+    await pool.query(`
+      CREATE TABLE IF NOT EXISTS match_results (
+        id SERIAL PRIMARY KEY,
+        name TEXT,
+        experience INT,
+        salary TEXT,
+        resume_skills TEXT,
+        matching_score INT,
+        created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+      );
+    `);
 
-app.listen(PORT, () => {
-  console.log(`Server running on port ${PORT}`);
-});
+    console.log("Table ready");
 
+    const PORT = process.env.PORT || 8000;
+    app.listen(PORT, () => {
+      console.log("Server running on port", PORT);
+    });
 
-const pool = require("./config/db");
+  } catch (error) {
+    console.error("DB ERROR", error);
+  }
+}
 
-pool.query("SELECT NOW()", (err, res) => {
-  if (err) console.log("DB ERROR", err);
-  else console.log("DB Connected:", res.rows);
-});
+startServer();
